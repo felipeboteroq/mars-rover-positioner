@@ -30,3 +30,6 @@ Only tests for the to services were implemented in MarsRoverPositioner.Bussiness
 - The user knows that only valid options are Y/N when asked if he wants to send another Rover.
 - The user knows that the set of instrucctions cannot be empty.
 - The rover's initial position must always fall inside the grid boundaries
+
+### **Usage:**
+Clone the repository and open mars-rover-positioner\MarsRoverPositioner.sln solution using VS2019
